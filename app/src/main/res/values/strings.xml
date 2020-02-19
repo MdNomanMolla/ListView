@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ListViewDemo</string>
+    <string-array name="country_list">
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+
+
+
+    </string-array>
+</resources>
